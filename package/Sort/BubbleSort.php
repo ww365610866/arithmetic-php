@@ -45,7 +45,7 @@ function BubbleSort(array $container)
 // | 方案测试    | php `this.php` || PHPStorm -> 右键 -> Run `this.php`
 // +--------------------------------------------------------------------------
 
-var_dump(BubbleSort([4, 21, 41, 2, 53, 1, 213, 31, 21, 423]));
+print_r(BubbleSort([4, 21, 41, 2, 53, 1, 213, 31, 21, 423]));
 
 /*
 array(10) {
